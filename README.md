@@ -11,7 +11,7 @@ Supports PDF & text ingestion, semantic search via ChromaDB, and response genera
 - ✂️ Smart document chunking with `RecursiveCharacterTextSplitter`
 - 🧠 Semantic embeddings via **NVIDIA AI Endpoints**
 - 🗃️ Vector storage and retrieval using **ChromaDB**
-- 💬 Conversational Q&A powered by **Mistral-Nemotron** (via NVIDIA)
+- 💬 Conversational Q&A powered (via NVIDIA)
 - 🔐 Secure API key management with `.env`
 
 ---
@@ -21,7 +21,7 @@ Supports PDF & text ingestion, semantic search via ChromaDB, and response genera
 | Tool | Purpose |
 |---|---|
 | LangChain | Document loading, chaining, prompts |
-| NVIDIA AI Endpoints | LLM (Mistral-Nemotron) + Embeddings |
+| NVIDIA AI Endpoints | LLM + Embeddings |
 | ChromaDB | Vector store for semantic search |
 | Python-dotenv | Environment variable management |
 
